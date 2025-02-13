@@ -15,13 +15,9 @@ I am currently on LLM Framework Project.<br>I am looking to collaborate on open 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shivaay2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shivaay2003&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
+## Visit Count
 [![](https://visitcount.itsvg.in/api?id=Shivaay2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
